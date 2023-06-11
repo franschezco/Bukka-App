@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156316514718",
+    "project_id": "bukka-63948",
+    "storage_bucket": "bukka-63948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156316514718:android:10daa0b9792f9b71a4fe8f",
+        "android_client_info": {
+          "package_name": "com.example.bukka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156316514718-ucl1f35omfkc5pqm33uc43nkbffqe5ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKokD0oNY6bxPJWqcEZQTe2MCS1m9on0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156316514718-ucl1f35omfkc5pqm33uc43nkbffqe5ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
